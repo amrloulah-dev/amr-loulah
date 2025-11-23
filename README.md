@@ -18,8 +18,5 @@
 - 💼 Wallet Manager App  
 - 🔍 OCR Invoice Reader (Vision AI + Cloud Functions)  
 
-## 📊 GitHub Stats
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?amr-loulah=amr-loulah&show_icons=true&theme=tokyonight)
-
 ## 📫 Contact Me
 - Email: amrloulah2021@gmail.com
