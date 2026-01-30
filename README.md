@@ -18,7 +18,7 @@ Currently open for freelance projects and opportunities to build amazing apps.
 <p>
   <img src="https://img.shields.io/badge/Bloc-Very_Good-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Provider-State_Management-7952B3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Riverpod-Coming_Soon-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Riverpod-State_Management-blue?style=for-the-badge" />
 </p>
 
 **Backend & Database:**
@@ -44,6 +44,7 @@ Currently open for freelance projects and opportunities to build amazing apps.
 </p>
 
 ---
+
 
 ### 📫 Connect with Me
 *   **Email:** [amrloulah2021@gmail.com]
