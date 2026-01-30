@@ -45,7 +45,6 @@ Currently open for freelance projects and opportunities to build amazing apps.
 
 ---
 
-
 ### 📫 Connect with Me
-*   **Email:** [amrloulah2021@gmail.com]
-*   **LinkedIn:** [www.linkedin.com/in/amr-loulah-b87b82388]
+*   **Email:** <a href="mailto:amrloulah2021@gmail.com">amrloulah2021@gmail.com</a>
+*   **LinkedIn:** [Amr Loulah](https://www.linkedin.com/in/amr-loulah-b87b82388)
